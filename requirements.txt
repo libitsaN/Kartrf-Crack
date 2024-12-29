@@ -1,0 +1,5 @@
+pyinstaller
+requests
+aiohttp
+fastapi
+uvicorn
